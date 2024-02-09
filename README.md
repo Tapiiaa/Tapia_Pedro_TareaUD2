@@ -1,4 +1,6 @@
-Link al repo:
+Link al repo:https://github.com/Tapiiaa/Tapia_Pedro_TareaUD2.git
+
+
 Tarea ud2 TDP (Técnicas de programación)
 Alumno: Pedro Alonso Tapia Lobo
 ##Ej1 Se inicializa un entero con valor 3. Los valores de entrada no cambiarán, haciéndolo los valores de salida. 
