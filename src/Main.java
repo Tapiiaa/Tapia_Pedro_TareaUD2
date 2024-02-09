@@ -15,8 +15,5 @@
 //Esto se debe a que los datos alimentan estos modelos, además de determinar su eficiencia y precisión.
 //Por ejemplo, si se tienen datos incorrectos, el modelo no podrá predecir de manera correcta, y si se tienen datos imprecisos, el modelo no podrá predecir de manera eficiente.
 //Para la mejoría de IA, usaría datos que previamente estuvieran verificados y revisados, además de hacer una revisión lógica del algoritmo.
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//Ejercicio 4: En la clase SistemaDeTransporte.
