@@ -13,8 +13,8 @@ public class SistemaDeTransporte {
         double tiempo = scanner.nextDouble();
 
         // Calculamos la velocidad media
-        double velocidadMedia = distancia/tiempo;
+        double velocidadMedia = distancia / tiempo;
         // Mostrar el resultado
         System.out.println("La velocidad media es: " + velocidadMedia + " km/h");
     }
-    }
+}
